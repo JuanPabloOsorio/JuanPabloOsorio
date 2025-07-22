@@ -42,15 +42,15 @@ Experienced software developer specializing in back-end development, with expert
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloOsorix&layout=compact&hide=HTML&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloOsorio&layout=compact&hide=HTML&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Last Projects.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloOsorix&repo=nequi_api_client_python&theme=github_dark&show_owner=PabloOsorix)](https://github.com/PabloOsorix/nequi_api_client_python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloOsorio&repo=nequi_api_client_python&theme=github_dark&show_owner=JuanPabloOsorio)](https://github.com/JuanPabloOsorio/nequi_api_client_python)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloOsorix&repo=AirBnB_clone_v4&theme=github_dark&show_owner=PabloOsorix)](https://github.com/PabloOsorix/AirBnB_clone_v4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloOsorio&repo=AirBnB_clone_v4&theme=github_dark&show_owner=JuanPabloOsorio)](https://github.com/JuanPabloOsorio/AirBnB_clone_v4)
 
 ## Stats.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloOsorix&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloOsorio&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact me
@@ -59,7 +59,7 @@ Experienced software developer specializing in back-end development, with expert
 
 
 <!--
-**PabloOsorix/PabloOsorix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JuanPabloOsorio/JuanPabloOsorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
