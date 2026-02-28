@@ -40,14 +40,15 @@ Experienced software developer specializing in back-end development, with expert
 
 
 
+## Last Project.
+### [plancitos.com](https://www.plancitos.com)
+
+
+
+<!--
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloOsorio&layout=compact&hide=HTML&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Last Projects.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloOsorio&repo=nequi_api_client_python&theme=github_dark&show_owner=JuanPabloOsorio)](https://github.com/JuanPabloOsorio/nequi_api_client_python)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloOsorio&repo=AirBnB_clone_v4&theme=github_dark&show_owner=JuanPabloOsorio)](https://github.com/JuanPabloOsorio/AirBnB_clone_v4)
 
 ## Stats.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloOsorio&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -55,7 +56,7 @@ Experienced software developer specializing in back-end development, with expert
 
 ## Contact me
 [<img src="Ldn_ico.png" width="50" height="50"/>](https://www.linkedin.com/in/juanpablogarciaosorio-developer/)
-
+-->
 
 
 <!--
